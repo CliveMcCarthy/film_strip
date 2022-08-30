@@ -3,8 +3,8 @@ film-strip and contact-sheet in Gtk
 
 ![Screenshot at 2022-08-30 16-35-22](https://user-images.githubusercontent.com/10423377/187561887-13458f1c-ee2c-4194-9e98-9cd60981511b.png)
 
-	This program is a cross between a film strip-editor and a contact-sheet.
-	It presents an array still image frames into which images can be
+	This program is a cross between a film-strip editor and a contact-sheet.
+	It presents an array of still image frames into which images can be
 	dragged-and-dropped from a file manager such as Mint Mate's Caja.
 
 	The program is named steenbeck but is in no way associated with:
