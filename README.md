@@ -31,3 +31,9 @@ film-strip and contact-sheet in Gtk
 	just an auto-generated bunch of formal, object oriented, lists without any
 	prototypes and code examples. It's quite inferior to the Linux documentation
 	you will find such as: 'The Linux Programming Interface' by Michael Kerrisk.
+	
+	Take special note of -Wno-deprecated-declarations since Gtk can drive you
+	mad with a huge number of deprecations yet NO documentation on how to
+	actually _fix_ them. That really pisses me off. They make a mess and don't
+	even give you a broom to sweep it up.
+
